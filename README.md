@@ -12,7 +12,6 @@
 
 ## Repository & Projects
 
-**GitHub Repository** [![GitHub Repo](https://img.shields.io/badge/View-GitHub-000?logo=github\&logoColor=white)](https://github.com/AshishJangra27/ai-projects)
 **Projects**          
 • Local Chatbot with Ollama
 • DIY Agentic AI
