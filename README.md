@@ -20,6 +20,6 @@
 - AI Resume-based Interview Assistant  
 - Resume Analyzer  
 - Local Chatbot with Ollama  
-- DIY Agentic AI  
+- DIY Agentic AI (*)
 - AI Question Tagging System
 - Text2SQL
