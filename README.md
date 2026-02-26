@@ -10,6 +10,7 @@
 | **4. Deep Learning → Generative AI & LLMs** | Roadmap from Deep Learning to Generative AI, how LLMs are trained, decoding GPT models, model pretraining, fine-tuning, and complete LLM pipeline explained visually. | [![Excalidraw](https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw\&logoColor=white)](https://excalidraw.com/#json=CitXqx1uWGzfLPvnTiBnv,A43TWw8QyBK0DLNG7ipWCQ) |
 | **5. Generative AI Projects Day** | Built 3 end-to-end projects: AI Content Writer, Bulk AI Content Creator, and AI Chatbot. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OtwvBrhic4FSQ5hu3W2ouejBRb9-QwfB?usp=sharing) |
 | **6. Open-Weight Models & HuggingFace** | Worked with open-weight LLMs using HuggingFace. Learned model loading, inference, prompt-based generation, and explored the interview-question dataset tagging for practical use cases. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tF3WZuJVskvSy9UKrPNPCP3-wnOd0YPq?usp=sharing)<br>[![GitHub Dataset](https://img.shields.io/badge/Open-GitHub-000?logo=github\&logoColor=white)](https://github.com/AshishJangra27/datasets/tree/main/Intervew%20Questions) |
+| **7. LLMs Taking Actions & Text2SQL** | Understanding how LLMs take actions by DIY Agents.  Text2SQL assignment using Sneaker Sales dataset for natural language to SQL query conversion. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sfEoNvvEfN2w-tY32mryq_QIUtxA4EB6?usp=sharing)<br>[![GitHub Dataset](https://img.shields.io/badge/Open-GitHub-000?logo=github\&logoColor=white)](https://github.com/AshishJangra27/datasets/tree/main/Sneaker%20Sales) |
 
 ---
 
@@ -21,5 +22,5 @@
 - Resume Analyzer  
 - Local Chatbot with Ollama  
 - DIY Agentic AI (*)
-- AI Question Tagging System
-- Text2SQL
+- AI Question Tagging System (*)
+- Text2SQL (*)
