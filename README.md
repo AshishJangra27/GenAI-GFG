@@ -1,26 +1,50 @@
 # GenAI – GFG Classes & Projects
 
-## Classes
+---
 
-| Class | Description | Resources |
-|------|-------------|-----------|
-| **1. Python Speedrun** | Covered Python fundamentals: datatypes, operators, typecasting, conditions, loops, and data structures in a fast-track session. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LsRMCh101xmIPx3UMD77K6WhMutsOfQn?usp=sharing) |
-| **2. AI Roadmap & Glossary** | AI vs ML vs DL roadmap, components of AI models, and essential AI glossary for beginners. | [![Excalidraw](https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw\&logoColor=white)](https://excalidraw.com/#json=9WhtBPpxVLK81mpKHPFjr,WGVBOpuVyHum-zDyvcYajA) |
-| **3. Deep Learning Foundations** | Neural networks working, artificial vs biological neuron, parameters in neural nets, and Iris dataset training with hyperparameter tuning. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L2v8bwRhh0o-EOAS-tTEnupO-2vA0ehD?usp=sharing)<br>[![Excalidraw](https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw\&logoColor=white)](https://excalidraw.com/#json=zHWLPiw8jJabzepGoSAm0,BXy45NKSA_rMHCC3xpl24g) |
-| **4. Deep Learning → Generative AI & LLMs** | Roadmap from Deep Learning to Generative AI, how LLMs are trained, decoding GPT models, model pretraining, fine-tuning, and complete LLM pipeline explained visually. | [![Excalidraw](https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw\&logoColor=white)](https://excalidraw.com/#json=CitXqx1uWGzfLPvnTiBnv,A43TWw8QyBK0DLNG7ipWCQ) |
-| **5. Generative AI Projects Day** | Built 3 end-to-end projects: AI Content Writer, Bulk AI Content Creator, and AI Chatbot. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OtwvBrhic4FSQ5hu3W2ouejBRb9-QwfB?usp=sharing) |
-| **6. Open-Weight Models & HuggingFace** | Worked with open-weight LLMs using HuggingFace. Learned model loading, inference, prompt-based generation, and explored the interview-question dataset tagging for practical use cases. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tF3WZuJVskvSy9UKrPNPCP3-wnOd0YPq?usp=sharing)<br>[![GitHub Dataset](https://img.shields.io/badge/Open-GitHub-000?logo=github\&logoColor=white)](https://github.com/AshishJangra27/datasets/tree/main/Intervew%20Questions) |
-| **7. LLMs Taking Actions & Text2SQL** | Understanding how LLMs take actions by DIY Agents.  Text2SQL assignment using Sneaker Sales dataset for natural language to SQL query conversion. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sfEoNvvEfN2w-tY32mryq_QIUtxA4EB6?usp=sharing)<br>[![GitHub Dataset](https://img.shields.io/badge/Open-GitHub-000?logo=github\&logoColor=white)](https://github.com/AshishJangra27/datasets/tree/main/Sneaker%20Sales) |
+# Classes
+
+| Day | Topic | Description | Resources |
+|-----|-------|------------|-----------|
+| **1** | Python Speedrun | Covered Python fundamentals: datatypes, operators, typecasting, conditions, loops, and data structures in a fast-track session. | [Open in Colab](https://colab.research.google.com/drive/1LsRMCh101xmIPx3UMD77K6WhMutsOfQn?usp=sharing) |
+| **2** | AI Roadmap & Glossary | AI vs ML vs DL roadmap, components of AI models, and essential AI glossary for beginners. | [Open Excalidraw](https://excalidraw.com/#json=9WhtBPpxVLK81mpKHPFjr,WGVBOpuVyHum-zDyvcYajA) |
+| **3** | Deep Learning Foundations | Neural networks working, artificial vs biological neuron, parameters in neural nets, and Iris dataset training with hyperparameter tuning. | [Open in Colab](https://colab.research.google.com/drive/1L2v8bwRhh0o-EOAS-tTEnupO-2vA0ehD?usp=sharing) <br> [Open Excalidraw](https://excalidraw.com/#json=zHWLPiw8jJabzepGoSAm0,BXy45NKSA_rMHCC3xpl24g) |
+| **4** | Deep Learning → Generative AI & LLMs | Roadmap from Deep Learning to Generative AI, how LLMs are trained, decoding GPT models, pretraining, fine-tuning, and complete LLM pipeline explained visually. | [Open Excalidraw](https://excalidraw.com/#json=CitXqx1uWGzfLPvnTiBnv,A43TWw8QyBK0DLNG7ipWCQ) |
+| **5** | Generative AI Projects Day | Built 3 end-to-end projects: AI Content Writer, Bulk AI Content Creator, and AI Chatbot. | [Open in Colab](https://colab.research.google.com/drive/1OtwvBrhic4FSQ5hu3W2ouejBRb9-QwfB?usp=sharing) |
+| **6** | Open-Weight Models & HuggingFace | Worked with open-weight LLMs using HuggingFace. Model loading, inference, prompt-based generation, and interview-question dataset tagging. | [Open in Colab](https://colab.research.google.com/drive/1tF3WZuJVskvSy9UKrPNPCP3-wnOd0YPq?usp=sharing) <br> [GitHub Dataset](https://github.com/AshishJangra27/datasets/tree/main/Intervew%20Questions) |
+| **7** | LLMs Taking Actions & Text2SQL | Built DIY agents and implemented Text2SQL using Sneaker Sales dataset for natural language to SQL query conversion. | [Open in Colab](https://colab.research.google.com/drive/1sfEoNvvEfN2w-tY32mryq_QIUtxA4EB6?usp=sharing) <br> [GitHub Dataset](https://github.com/AshishJangra27/datasets/tree/main/Sneaker%20Sales) |
+| **8** | DIY RAG (From Scratch) | Built Retrieval-Augmented Generation without using LangChain or fancy libraries. Implemented embeddings, similarity search using NumPy, and LLM response pipeline manually. | [Open in Colab](https://colab.research.google.com/drive/1NJ67hZiQ5NLCFj78CrAiKNbCNvdRlvaf?usp=sharing) |
+| **9** | LLM-Based Web Search Agent | Built a web search system using Serper API where multiple webpages are fetched, summarized, reasoned upon, and final structured answer generated by LLM. | [Open in Colab](https://colab.research.google.com/drive/1F1_TP5RTSfsYaMD_Qpg0K4LX4tIi-y0R?usp=sharing) |
 
 ---
 
-## Projects Built During Program
-- AI Content Writer  (*)
-- Bulk AI Content Creator (multi-topic article generator)   (*)
-- Build an AI Chatbot   (*)
+# Projects Built During Program
+
+### Core Flagship Projects
+- AI Content Writer  
+- Bulk AI Content Creator (Multi-topic Article Generator)  
+- AI Chatbot  
+- DIY Agentic AI  
+- AI Question Tagging System  
+- Text2SQL  
+
+### Applied AI Projects
 - AI Resume-based Interview Assistant  
 - Resume Analyzer  
 - Local Chatbot with Ollama  
-- DIY Agentic AI (*)
-- AI Question Tagging System (*)
-- Text2SQL (*)
+
+---
+
+# Program Outcome
+
+By the end of this program, learners:
+
+- Understand the complete AI → Deep Learning → LLM → GenAI pipeline  
+- Build RAG systems from scratch  
+- Create agent-based systems  
+- Deploy real-world AI applications  
+- Work with open-weight models  
+- Convert natural language into SQL queries  
+- Build web-search integrated AI systems  
+
+---
