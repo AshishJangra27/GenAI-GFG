@@ -1,1 +1,1 @@
-https://github.com/AshishJangra27/generative-ai-gfg
+https://colab.research.google.com/drive/1My47XeC4LnHOqgZeLGrFcf21sdlHMiBK?usp=sharing
