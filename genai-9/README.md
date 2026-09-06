@@ -15,8 +15,6 @@ https://colab.research.google.com/drive/1qUrZQH0jVVxqG5c9G4ocBzo0aRSSvHpu?usp=sh
 Fashion MNIST
 https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sharing
 
-Assignemnt  - CIFAR100
-
-
-
 LLM Finetunnine : https://colab.research.google.com/drive/1fDhJc1i7YNeQVAYPbrVQfpm3lVozBTs2?usp=sharing
+
+LLM with Internet Search: https://colab.research.google.com/drive/1d41pqHa1W4ZFIUOfhODiEzwnimHnrEkc?usp=sharing
